@@ -1,0 +1,9 @@
+[submodule "src/novatel_gps_driver"]
+	path = src/novatel_gps_driver
+	url = https://github.com/liang-tang/novatel_gps_driver
+[submodule "src/livox_ros_driver"]
+	path = src/livox_ros_driver
+	url = https://github.com/liang-tang/livox_ros_driver
+[submodule "src/livox_high_precision_mapping"]
+	path = src/livox_high_precision_mapping
+	url = https://github.com/liang-tang/livox_high_precision_mapping
