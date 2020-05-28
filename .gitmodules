@@ -7,3 +7,6 @@
 [submodule "src/livox_high_precision_mapping"]
 	path = src/livox_high_precision_mapping
 	url = https://github.com/liang-tang/livox_high_precision_mapping
+[submodule "src/livox_ros_startup"]
+	path = src/livox_ros_startup
+	url = https://github.com/liang-tang/livox_ros_startup
