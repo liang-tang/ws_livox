@@ -43,6 +43,9 @@
 
 6. Environment setup:
     ```bash
-    echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
+    echo "source ~/ws_livox/devel/setup.sh"
     source ~/.bashrc
     ```
+
+Wlecome to join us.
+QQ group: 1033644961
