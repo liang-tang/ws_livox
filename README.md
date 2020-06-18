@@ -47,5 +47,5 @@
     source ~/.bashrc
     ```
 
-Wlecome to join us.
+Welcome to join us.
 QQ group: 1033644961
